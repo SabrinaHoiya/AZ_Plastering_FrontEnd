@@ -1,1 +1,1 @@
-it is a dynamic website for a plastering company.
+#It is a dynamic website for a plastering company.
